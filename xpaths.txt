@@ -1,0 +1,4 @@
+para = //*[@id="rso"]/div[1]/div[1]/div/div[1]/div/div[1]/div/span/span
+images/bullets = //*[@id="rso"]/div[1]/div[1]/div/div[1]/div/div[2]/div/div[1]
+
+//*[@id="rso"]/div[1]/div[1]/div/div[1]/div/div[2]/div
